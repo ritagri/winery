@@ -4,7 +4,7 @@ INTRODUCTION
 The goal of this project is to provide minimalistic django project for e-shop,
 which just has the basic setup you can expand on.
 
-Template is written with  PyCharm Community Edition 2022.1.3 using Django 4.1.1.
+Template is written with  PyCharm Community Edition 2022.1.3 using Django 4.1.1. (admin: rita, psw: rita)
 
 GETTING STARTED
 
